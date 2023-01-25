@@ -4,8 +4,7 @@
         <style>
         img{
             width: 100px;
-            alt color: ;
-        }
+                    }
         h1{ 
             color:darkblue;
                         
