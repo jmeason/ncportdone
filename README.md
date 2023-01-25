@@ -4,7 +4,7 @@
         <style>
         img{
             width: 100px;
-                    }
+                }
         h1{ 
             color:darkblue;
                         
@@ -13,7 +13,7 @@
         body{background-color:cadetblue }
         .thanks {font-size: x-small;}
 </style>
-  
+    </style>
 </head>
 <h1> Julia Eason </h1>
 <img src="https://cdn.dribbble.com/users/947358/screenshots/9327966/media/465fe90a183028be2a32cdbe04ddccd4.png?compress=1&resize=400x300"
@@ -32,7 +32,7 @@ alt="JE logo">
     <p> Lorem ipsum dolor sit amet, vel dicit menandri pertinacia ut, sea facilisi praesent an. Eam nisl postea necessitatibus ex. Cu pri iisque delicata. Feugiat blandit ponderum vis ex, ne lucilius adipisci voluptatum pri. His at docendi voluptaria temporibus, sit aperiam nostrud lobortis ne. </p>
 
 <h3> Contact Me </h3>
-    <p>julia @gmail.com phone number 910-000-0000 </p>
+    <p> julia @gmail.com phone number 910-000-0000 </p>
 
 
 <body>
