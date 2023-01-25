@@ -13,7 +13,7 @@
         body{background-color:cadetblue }
         .thanks {font-size: x-small;}
 </style>
-    </style>
+  
 </head>
 <h1> Julia Eason </h1>
 <img src="https://cdn.dribbble.com/users/947358/screenshots/9327966/media/465fe90a183028be2a32cdbe04ddccd4.png?compress=1&resize=400x300"
