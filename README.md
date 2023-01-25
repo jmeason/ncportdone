@@ -32,7 +32,7 @@ alt="JE logo">
     <p> Lorem ipsum dolor sit amet, vel dicit menandri pertinacia ut, sea facilisi praesent an. Eam nisl postea necessitatibus ex. Cu pri iisque delicata. Feugiat blandit ponderum vis ex, ne lucilius adipisci voluptatum pri. His at docendi voluptaria temporibus, sit aperiam nostrud lobortis ne. </p>
 
 <h3> Contact Me </h3>
-    <p> @gmail.com phone number 911 </p>
+    <p>julia @gmail.com phone number 910-000-0000 </p>
 
 
 <body>
